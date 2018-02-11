@@ -1,0 +1,15 @@
+body{
+    background:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1, h2{
+   color: darkolivegreen;
+}
+
+p{
+    background: darkgray;
+    color: goldenrod;
+    padding: 15px;
+}
