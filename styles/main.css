@@ -27,7 +27,7 @@ h3 {
     font-family: 'Comfortaa', cursive;
     letter-spacing: 1px; 
     margin-bottom: 0; 
-    color: #7D775C;
+    color: #000000;
 }
 
     
@@ -43,6 +43,7 @@ h3 {
     
 .box1{
     background-color:rgba(114, 194, 213,0.7);
+    text-align: center;
     position:relative;
     z-index:100;
 }
