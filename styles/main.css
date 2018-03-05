@@ -16,7 +16,7 @@ p {
 }
 
 h1{
-    font: italic normal 2.4em georgia, sans-serif;
+    font-family: 'Lobster', cursive;
     letter-spacing: 1px; 
     margin-bottom: 0; 
     color: #7D775C;
@@ -24,7 +24,7 @@ h1{
 }
 
 h3 { 
-    font: italic normal 1.4em georgia, sans-serif;
+    font-family: 'Comfortaa', cursive;
     letter-spacing: 1px; 
     margin-bottom: 0; 
     color: #7D775C;
@@ -38,7 +38,7 @@ h3 {
     height:200px;
     width:100%;
     padding:10px;
-    text-align:justify;
+    vertical-align: middle;
 }
     
 .box1{
