@@ -37,8 +37,9 @@ h3 {
 .boxes{
     height:200px;
     width:100%;
-    padding:10px;
-    text-align: center;
+    margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
 }
     
 .box1{
