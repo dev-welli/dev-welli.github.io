@@ -1,0 +1,71 @@
+/* basic elements */
+*{
+    padding:0;
+    margin:0;
+}
+    
+body{
+    font: 101% georgia, sans-serif;
+    line-height: 1.88889;
+    color: #000000; 
+}
+    
+p { 
+    margin-top: 0; 
+    text-align: justify;
+}
+
+h1{
+    font: italic normal 2.4em georgia, sans-serif;
+    letter-spacing: 1px; 
+    margin-bottom: 0; 
+    color: #7D775C;
+
+}
+
+h3 { 
+    font: italic normal 1.4em georgia, sans-serif;
+    letter-spacing: 1px; 
+    margin-bottom: 0; 
+    color: #7D775C;
+}
+
+    
+/* specific divs */
+    
+    
+.boxes{
+    height:200px;
+    width:100%;
+    padding:10px;
+    text-align:justify;
+}
+    
+.box1{
+    background-color:rgba(114, 194, 213,0.7);
+    position:relative;
+    z-index:100;
+}
+    
+.box2{
+    background-color:rgba(218, 237, 130, 0.7);
+    position:relative;
+    left:70px;
+    z-index:200;
+}
+    
+.box3{
+    background-color:rgba(61, 67, 85, 0.7);
+    position:relative;
+    top: -30px;
+    left: 30px;
+    z-index:300;
+}
+    
+.box4{
+    background-color:rgba(224, 7, 56, 0.7);
+    position:relative;
+    top: -70px;
+    left: 100px;
+    z-index:210;
+}
