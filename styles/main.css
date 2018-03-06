@@ -83,6 +83,12 @@ h3 {
     z-index:500;
 }
 
+.box6{
+    background-color:rgba(250, 196, 17, 0.7);
+    position:relative;
+    z-index:600;
+}
+
 .question{
     padding: 10px;
     font-size: 25px;
