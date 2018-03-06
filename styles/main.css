@@ -20,10 +20,10 @@ h1{
     letter-spacing: 1px; 
     margin-bottom: 0; 
     color: #7D775C;
-
+    padding:20px;
 }
 
-h3 { 
+h2, h3 { 
     font-family: 'Comfortaa', cursive;
     letter-spacing: 1px; 
     margin-bottom: 0; 
@@ -71,7 +71,7 @@ h3 {
 
 .question{
     padding: 10px;
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
