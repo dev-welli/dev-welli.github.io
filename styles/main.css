@@ -23,6 +23,27 @@ p {
     text-align: justify;
 }
 
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #4c0ed6;
+}
+
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #4c0ed6;
+}
+
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: #4c0ed6;
+}
+
+ul, li{
+    font-size: 15px;
+}
+
 h1{
     font-family: 'Lobster', cursive;
     letter-spacing: 5px; 
@@ -43,6 +64,8 @@ h3 {
     margin-bottom: 0; 
     color: #000000;
 }
+
+
 
 .center {
     display: block;
