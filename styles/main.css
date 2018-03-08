@@ -26,18 +26,17 @@ p {
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #4c0ed6;
+    color: #4c0ed6;
+    text-shadow: 2px 2px 5px black;
 }
 
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #4c0ed6;
 }
 
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
-	color: #4c0ed6;
 }
 
 ul, li{
