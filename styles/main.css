@@ -151,3 +151,10 @@ h3 {
     max-width: 40%;
     box-sizing: border-box;
   }
+
+@media (min-width: 550px){
+    .box1, .box2, .box3, .box4, .box5, .box6, .box7{
+        right: 0;
+        left: 0;
+    }
+}
