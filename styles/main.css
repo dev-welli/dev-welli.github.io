@@ -125,6 +125,12 @@ h3 {
     z-index:600;
 }
 
+.box7{
+    background-color:rgba(17, 250, 48, 0.685);
+    position:relative;
+    z-index:700;
+}
+
 .question{
     padding: 10px;
     font-size: 25px;
@@ -140,3 +146,8 @@ h3 {
 .emptybox{
     height:100px;
 }
+
+.halfwidth {
+    max-width: 49%;
+    box-sizing: border-box;
+  }
